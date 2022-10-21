@@ -1,0 +1,13 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        stylesheets:
+          'NeosRulez.Neos.TabNavigationWheel':
+            resource: '${"resource://NeosRulez.Neos.TabNavigationWheel/Public/Plugin.css"}'
+        javascript:
+          'NeosRulez.Neos.TabNavigationWheel':
+            resource: '${"resource://NeosRulez.Neos.TabNavigationWheel/Public/Plugin.js"}'
+#      frontendConfiguration:
+#        'NeosRulez.Neos.CkEditor.SpecialCharacters': '${Configuration.setting(''NeosRulez.Neos.CkEditor.SpecialCharacters'')}'
+#        'NeosRulez.Neos.CkEditor.Emojis': '${Configuration.setting(''NeosRulez.Neos.CkEditor.Emojis'')}'
