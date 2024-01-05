@@ -1,3 +1,3 @@
 .extendedInspector { width:100%; height:100%; }
-.extendedInspector div[role="tablist"] > ul:first-child { overflow:auto; overflow-y:hidden; width:100%; display:flex; margin-bottom:-1px; }
+.extendedInspector div[role="tablist"] > ul:first-child { overflow:inherit; overflow-y:inherit; width:100%; display:flex; margin-bottom:-1px; }
 .extendedInspector div[role="tablist"] > ul:first-child li { border-bottom: 1px solid #3f3f3f !important; margin-bottom:0 !important; }
